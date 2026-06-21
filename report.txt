@@ -1,0 +1,23 @@
+PROJECT REPORT
+
+Project Title:
+Interactive Dashboard Development
+
+Objective:
+To visualize sales data using an interactive dashboard.
+
+Tools Used:
+1. Python
+2. Streamlit
+3. Pandas
+4. Plotly
+
+Visualizations:
+1. KPI Metrics
+2. Sales Trend Chart
+3. Product-wise Sales Chart
+
+Insights:
+1. Laptop generated highest sales.
+2. Overall profit is positive.
+3. Dashboard enables quick decision making.
